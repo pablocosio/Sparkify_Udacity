@@ -2,7 +2,7 @@
 
 ### Goal
 
-In this repository you can find the Jupyter notebook and features dataset for the Udacity Capstone Project. The goal of the same is to build a predictive model to detect users, who will cancell their subscription, before they cancel it to develop specific offers and advertisement campaigns for them.
+In this repository you can find the Jupyter notebook and features dataset for the Udacity Capstone Project. The goal of the same is to build a predictive model to detect users, who will cancell their subscription, before they cancel it to develop specific offers and advertisement campaigns for them. For further details regarding implementation, have a look at the following post: https://medium.com/@cosiodelosarcos/prediction-of-user-churns-for-sparkify-c594953e3502?sk=cfea97435a6332d46b7fd070eeef4a97
 
 ### Required installation
 
