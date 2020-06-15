@@ -30,24 +30,24 @@ Results from the first and last models look promising without great optimization
 ### Original dataset
 
 This dataset reflects user interaction with the platform. The following information is provided:
- |-- artist: string (nullable = true)
- |-- auth: string (nullable = true)
- |-- firstName: string (nullable = true)
- |-- gender: string (nullable = true)
- |-- itemInSession: long (nullable = true)
- |-- lastName: string (nullable = true)
- |-- length: double (nullable = true)
- |-- level: string (nullable = true)
- |-- location: string (nullable = true)
- |-- method: string (nullable = true)
- |-- page: string (nullable = true)
- |-- registration: long (nullable = true)
- |-- sessionId: long (nullable = true)
- |-- song: string (nullable = true)
- |-- status: long (nullable = true)
- |-- ts: long (nullable = true)
- |-- userAgent: string (nullable = true)
- |-- userId: string (nullable = true)
+- artist
+- auth
+- firstName
+- gender
+- itemInSession
+- lastName
+- length
+- level
+- location
+- method
+- page
+- registration
+- sessionId
+- song
+- status
+- ts
+- userAgent
+- userId
  
 ### ML features dataset
 
